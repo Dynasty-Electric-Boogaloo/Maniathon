@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd62e171491e496ea18d3e32cdd75ded, type: 3}
+  m_Name: DebugCollection
+  m_EditorClassIdentifier: com.maniathon.game::Mainframe.Scripts.Game.MicrogameCollection
+  displayName: Debug
+  color: {r: 0.7924528, g: 0.15325737, b: 0.15325737, a: 1}
+  microgames:
+  - {fileID: 11400000, guid: cef176cc55131ac49926616b3804c634, type: 2}
+  - {fileID: 11400000, guid: b507edd4970421245942c395496371be, type: 2}
+  - {fileID: 11400000, guid: 2d4b4fc7d7af9204882500174afa54a5, type: 2}
+  campaignPlayCount: 10
+  speedUpStride: 3

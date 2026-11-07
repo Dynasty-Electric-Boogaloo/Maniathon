@@ -1,0 +1,20 @@
+{
+    "name": "com.maniathon.core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c93df30cbaea6e94f8f5b0fe2b2114a9",
+        "GUID:792682f5a95ee1546a2f09d9df06b2d8",
+        "GUID:6dcdf78b5602a4d438a64b450ef9f5d4",
+        "GUID:caca889fed6088d40b22c2d7e2909c31",
+        "GUID:15fc0a57446b3144c949da3e2b9737a9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
